@@ -6,15 +6,15 @@
 
 ## Tips
 
-外网同步到Doogga Hub服务器
--------------
+#### 外网同步到Doogga Hub服务器
+
 1. 必须安装rsync
 2. 需要有passwd.rsync文件
 3. passwd.rsync文件的权限需是700
 4. 当前用户需要是passwd.rysnc的拥有者，或者是root用户
 
-公司内网机器同步到内网Hub服务器
--------------
+#### 公司内网机器同步到内网Hub服务器
+
 1. 必须安装sshpass
 
 ## Introduce
